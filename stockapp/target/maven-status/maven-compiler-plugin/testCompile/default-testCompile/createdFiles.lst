@@ -1,0 +1,5 @@
+stockapp\AppTest.class
+stockapp\StockDAOImplTest.class
+stockapp\StockServiceImplTest.class
+stockapp\TradeDAOImplTest.class
+StockDAOImplTest.class
